@@ -1,5 +1,5 @@
 # Library-Management-System
-A library management system backend built with typescript
+A library management system backend built with typescript.
 The system allows a librarian (admin) to manage users and book requests, and library users to request and view book borrowing details.
 
 Librarian APIs:
